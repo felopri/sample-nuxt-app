@@ -3,31 +3,17 @@
     <div>
       <logo />
       <h1 class="title">
-        sample-nuxt-app
+        Civico
       </h1>
       <h2 class="subtitle">
-        Learn Nuxt.js structure with this example
+        Civico profile page sample
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
-          target="_blank"
+          href="/"
           class="button--green"
         >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-        <a
-          href="/profile"
-          class="button--green"
-        >
-          Profile
+          Home
         </a>
       </div>
     </div>
