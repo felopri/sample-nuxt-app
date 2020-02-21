@@ -13,22 +13,13 @@
           href="https://nuxtjs.org/"
           target="_blank"
           class="button--green"
-        >
-          Documentation
-        </a>
+        >Documentation</a>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           class="button--grey"
-        >
-          GitHub
-        </a>
-        <a
-          href="/profile"
-          class="button--green"
-        >
-          Profile
-        </a>
+        >GitHub</a>
+        <nuxt-link to="/profile" class="button--grey">Profile</nuxt-link>
       </div>
     </div>
   </div>
